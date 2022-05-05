@@ -1,0 +1,51 @@
+header {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  color: white;
+  background-color: black;
+}
+.lefthead {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+.righthead {
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 10px;
+}
+
+footer {
+  background-color: black;
+}
+
+.I {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+footer {
+  display: flex;
+  color: white;
+  flex-direction: column;
+}
+
+.alltAnnat {
+  justify-content: space-evenly;
+  display: flex;
+}
+footer h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.hejKnapp {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.container{
+  
+}
